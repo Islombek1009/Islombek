@@ -1,0 +1,67 @@
+.container{
+  background-color: blue;
+  height: 500px;
+  .row{
+    .a1{
+      margin-left: -100px;
+    }
+    .a2{
+      margin-left: -100px;
+    }
+    .col-3{
+      .img1{
+        border-radius: 5px;
+        margin-top: -20px;
+        width: 160px;
+        height: 200px;
+      }
+      .img2{
+        border-radius: 5px;
+        width: 160px;
+        height: 200px;
+        margin-top: 110px;
+      }
+      .img3{
+        border-radius: 5px;
+        width: 170px;
+        height: 200px;
+        margin-top: 60px;
+      }
+      .h05{
+        color: white;
+      }
+      .h55{
+        color: #adadff;
+      }
+    }
+  }
+}
+.section1{
+  .h11{
+    color: white;
+  }
+  .row{
+    .h11{
+      color: white;
+      margin-left: 60px;
+    }
+  }
+}
+.input1{
+  text-decoration: none;
+  background: none;
+  border: none;
+}
+.input1::placeholder{
+  color: #adadff;
+}
+.img4{
+  width: 20px;
+  height: 20px;
+}
+.btn1{
+  margin-top: 300px !important;
+}
+.btn7{
+  margin-left: 100px;
+}
